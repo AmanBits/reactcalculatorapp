@@ -1,0 +1,11 @@
+
+.displayContainer{
+   margin-top: 10px;
+}
+.display{
+   display: block;
+   margin:auto;
+   padding: 15px;
+   font-size: 16px;
+   
+}
